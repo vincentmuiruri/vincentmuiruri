@@ -105,7 +105,7 @@ A selection of projects spanning **financial risk modelling, fraud analytics, mo
         <li>Pipeline refresh monitoring and analytics-ready outputs</li>
       </ul>
       <p><strong>Tech:</strong> Snowflake, SQL, Dynamic Tables, data modelling</p>
-      <p><a href="https://github.com/vincentmuiruri/fraud_analysis_datapipeline_demo/blob/main/fraud_analysis_datapipeline_demo.sql">View SQL Implementation →</a></p>
+      <p><a href="https://github.com/vincentmuiruri/fraud_analysis_datapipeline_demo">View SQL Implementation →</a></p>
     </td>
   </tr>
   <tr>
