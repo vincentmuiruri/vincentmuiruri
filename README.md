@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=600&size=26&pause=1000&color=a371f7&center=true&vCenter=true&width=805&height=44&lines=Data+Scientist+%7C+Financial+Risk+Modeller;Building+Data+Pipelines+%26+AI-Powered+Workflows;Turning+Complex+Data+into+Actionable+Insights" alt="Data Scientist | Data Engineering | AI Automation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=600&size=26&pause=1000&color=a371f7&center=true&vCenter=true&width=805&height=44&lines=Data+Scientist+Data+Specialist;Building+Data+Pipelines+%26+AI-Powered+Workflows;Turning+Complex+Data+into+Actionable+Insights" alt="Data Scientist | Data Engineering | AI Automation" />
 </p>
 
 
